@@ -1,1 +1,2 @@
 this is a demo file for the git bash and GitHub lab no 2 task 
+this is my 2nd line
