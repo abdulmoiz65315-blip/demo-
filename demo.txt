@@ -1,2 +1,3 @@
 This is my first git file.
-Learning how to stage and commit.
+Learning how to stage and commit.new line added in feature branch
+Change from cloned repo
